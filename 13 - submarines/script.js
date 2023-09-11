@@ -24,3 +24,15 @@ for(let i = 0; i< tableColumns; i++){
 }
 
 console.log(ocean);
+
+
+
+// Injecter du texte dans le contenu de la page HTML.
+//Def de la function
+function addToHTML(myData){
+    let p = document.createElement("p"); // Création de l'élément
+    p.innerHTML = myData; // Injection du contenu textuel
+    document.querySelector("body").append(p); // Insertion de l'élément dans le DOM
+}
+addToHTML(ocean);
+addToHTML("Hello");
