@@ -26,3 +26,13 @@ switch (jourDeLaSemaine) {
         console.log("Error");
         break;
 }
+
+
+
+
+if(jourDeLaSemaine == 1){
+    console.log("Lundi");
+}else if(jourDeLaSemaine == 2){
+    console.log("Mardi");
+}
+ 

@@ -17,3 +17,10 @@ switch (thisMonth) {
         console.log("Error");
         break;
 }
+
+
+/*
+if(thisMonth == 1 || thisMonth == 2 || thisMonth == 3){
+    console.log("Winter");
+}
+*/
