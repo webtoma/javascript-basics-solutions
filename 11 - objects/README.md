@@ -12,7 +12,7 @@ Dans cet exercice, vous allez créer des objets simples en JavaScript.
 
 2. Vous trouverez un commentaire indiquant où écrire votre code.
 
-3. Créez un objet `personne` avec des propriétés telles que `nom`, `prénom` et `âge`.
+3. Créez un objet `personne` avec des propriétés telles que `nom`, `prenom` et `age`.
 
 ### Exercice 2 : Accès aux Propriétés
 
